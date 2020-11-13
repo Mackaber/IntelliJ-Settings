@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="ruby" injector-id="python">
+      <display-name>Ruby</display-name>
+      <prefix>#ruby</prefix>
+    </injection>
+  </component>
+</application>
